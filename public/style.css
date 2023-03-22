@@ -13,6 +13,7 @@
 body {
     display: grid;
     background-color: var(--dutch-white);
+    overflow-x: hidden;
 }
 
 header {
