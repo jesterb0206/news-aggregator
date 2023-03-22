@@ -16,7 +16,7 @@ A link to the live site: https://jesterb0206.github.io/project-one/
 
 ## Usage
 
-![News Aggregator Screenshot](assets/images/news-aggregator-screenshot.png)
+![News Aggregator Screenshot](news-aggregator-screenshot.png)
 
 
 ## Credits
