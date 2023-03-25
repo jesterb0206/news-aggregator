@@ -11,7 +11,7 @@ The project was designed to display a 'cleaner' user interface while browsing ne
 
 ## Installation
 
-A link to the live site: https://jesterb0206.github.io/project-one/
+A link to the live site: https://jesterb0206.github.io/news-aggregator/
 
 
 ## Usage
